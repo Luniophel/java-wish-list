@@ -8,7 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//Versione col for
+		//Versione col for, sessione 4
 		
 		Scanner scan = new Scanner(System.in);
 		

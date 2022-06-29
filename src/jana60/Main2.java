@@ -8,7 +8,7 @@ public class Main2 {
 
 	public static void main(String[] args) {
 		
-		//Versione col solo while
+		//Versione col solo while, sessione 4
         Scanner scan = new Scanner(System.in);
 		
 		ArrayList<String> wishList = new ArrayList<String>();
